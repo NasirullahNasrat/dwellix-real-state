@@ -57,7 +57,7 @@ A modern, responsive real estate listing platform built with a Laravel API backe
 ### Backend Setup (Laravel)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Midhunkumar-se/realtor-react.git
+   git clone https://github.com/NasirullahNasrat/dwellix-real-state.git
    cd backend-laravel
    composer install
 
